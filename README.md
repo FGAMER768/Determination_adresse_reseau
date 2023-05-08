@@ -2,7 +2,7 @@
 Un programme simple permettant de déterminer l'adresse réseau de votre ordinateur
 Ce programme fonctionne avec la console de thonny
 
-![Image](https://github.com/FGAMER768/Determination_adresse_reseau/blob/main/Programme_D%C3%A9termination%20Adresse%20R%C3%A9seau.png)
+![Image](https://github.com/FGAMER768/Determination_adresse_reseau/blob/main/image_programme.png)
 
 # Requis
 
